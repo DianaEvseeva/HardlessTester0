@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/bottom_menu_color</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="main_title_color">#003465</color>
+    <color name="bottom_menu_color">#377FC0</color>
+    <color name="table_color">#90377FC0</color>
+    <color name="table_text_color">#1B5C98</color>
+</resources>

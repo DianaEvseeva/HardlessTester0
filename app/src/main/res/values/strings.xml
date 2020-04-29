@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HardlessTester2</string>
+
+    <string name="button_title_start">Старт</string>
+    <string name="main_activity_titleText">Архив измерений</string>
+    <string name="main_table_title">Наименование измерения</string>
+    <string name="main_table_title2">Кол-во серий</string>
+
+</resources>
